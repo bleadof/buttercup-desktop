@@ -18,7 +18,7 @@
       "connect-cloud-sources": "Yhdistä pilvipalveluun",
       "import": {
         "import": "Tuo",
-        "import-from-type": "Tuo {{name}} arkisto (.{{extension}})",
+        "import-from-type": "Tuo arkisto {{name}} (.{{extension}})",
         "import-to-type": "Kohteeseen {{name}}",
         "no-available-archives": "Arkistoja, johon voi tuoda ei ole saatavilla."
       },
@@ -69,7 +69,7 @@
     },
     "help": {
       "help": "Ohje",
-      "visit-our-website": "Käy verkkosivullamme",
+      "visit-our-website": "Vieraile verkkosivullamme",
       "privacy-policy": "Yksityisyyskäytännöt",
       "view-changelog-for-v": "Katso version {{version}} muutoshistoria"
     },
@@ -155,7 +155,7 @@
     "are-you-sure-question": "Oletko aivan varma?",
     "displaying-entries": "Näytetään {{count}} merkintää",
     "no-value": "Ei valintaa",
-    "quit-unsave-entry": "Menetät tallentamattomat muutokset, oletko aivan varma että haluat jatkaa?"
+    "quit-unsave-entry": "Menetät tallentamattomat muutokset. Haluatko varmasti jatkaa?"
   },
   "entry-menu": {
     "copy-to-clipboard": "Kopioi Leikepöydälle",
@@ -229,7 +229,7 @@
   "update": {
     "installing": "Asennetaan",
     "update-available-message": "Buttercup {{version}} on nyt saatavilla. Sinulla on versio {{currentVersion}}. Haluatko ladata päivityksen?",
-    "new-version-available": "Uusi versio Buttercup:ista on saatavilla!",
+    "new-version-available": "Uusi versio Buttercupista on saatavilla!",
     "not-now": "Ei nyt",
     "download": "Lataa ja Asenna",
     "download-manual": "Avaa Julkaisut Näkymä",
